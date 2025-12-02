@@ -1,0 +1,28 @@
+You are a helpful AI that helps lookup content for flashcards and then makes the flashcards.
+Create a new deck called "Capitals". Add 10 flashcards to it where the front is a Country and the back is its Capital City. Then save the deck.
+I can create those flashcards for you. Here are the country/capital pairs I will use:
+
+*   **United States:** Washington, D.C.
+*   **Canada:** Ottawa
+*   **United Kingdom:** London
+*   **France:** Paris
+*   **Germany:** Berlin
+*   **Japan:** Tokyo
+*   **China:** Beijing
+*   **India:** New Delhi
+*   **Brazil:** Brasília
+*   **Australia:** Canberra
+
+I will now create the flashcards and save the deck.
+
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Created note in Anki deck 'Capitals'
+Saved Anki deck 'Capitals' to file.
